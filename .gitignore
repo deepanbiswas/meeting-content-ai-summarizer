@@ -62,5 +62,8 @@ Thumbs.db
 summaries/*.txt
 transcripts/*.txt
 
+# Source content (exclude uploaded meeting content)
+source_content/
+
 # Streamlit cache
 .streamlit/
